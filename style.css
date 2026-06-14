@@ -16,13 +16,8 @@ body {
 .site-header {
   background: #222;
   color: #fff;
-  padding: 1rem 2rem;
+  padding: 1.5rem 1rem;
   text-align: center;
-
-  display: flex;
-  flex-direction: column;   /* stack title + nav vertically */
-  align-items: center;      /* center them horizontally */
-  justify-content: center;  /* center vertically if needed */
 }
 
 .site-header h1 {
